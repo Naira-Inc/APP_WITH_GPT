@@ -4,7 +4,7 @@ function staticLayouts() {
     <div className={styles.staticLayouts}>
       <header className="App-header">
         <section>
-          <h1>COMING SOON</h1>
+          <h1>COMING SOON...</h1>
         </section>
       </header>
     </div>
