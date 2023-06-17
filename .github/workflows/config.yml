@@ -25,6 +25,6 @@ jobs:
 
       - name: Build
         run: |
-         cd friends && yarn install
+          yarn install
           yarn test
           yarn build --if-present
